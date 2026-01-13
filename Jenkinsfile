@@ -2,6 +2,6 @@
 
 standardBackendPipeline(
     appName: 'config-service',
-    registry: 'yassinekamouss',
+    registry: 'saaymo',
      sonarProjectKey: 'config-service'
 )
